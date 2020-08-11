@@ -1,5 +1,3 @@
-# AdoptionSystem_java
-
 # Adopet - Pets Adoption Management System
 
 # Introduction
