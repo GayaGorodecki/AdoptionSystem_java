@@ -7,7 +7,7 @@ Use our system search to find pets for adoption!
 
 Adopet is a system where shelters and rescues list their pets for adoption. We don’t have the pets ourselves!
 
-This project designed and built as a final project in Software Engineering academic course.
+*Designed and built as a final project in Software Engineering academic course.
 
 # Architectures
 MVC
@@ -21,7 +21,6 @@ ScreenShots:
 
 
 ![GIF](https://media.giphy.com/media/kfGGyW3RA95PyjbPtw/giphy.gif)
-
 
 ![GIF](https://media.giphy.com/media/RMrDHPQfcjtmTAjSjl/giphy.gif)
 
